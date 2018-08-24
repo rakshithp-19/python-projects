@@ -1,4 +1,4 @@
-secret_word = "Whatsapp"
+secret_word = "Giraffe"
 guess = ""
 guess_count = 0
 guess_limit = 4

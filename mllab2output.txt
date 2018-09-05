@@ -1,0 +1,21 @@
+runfile('C:/Users/Computer/Desktop/1BI15CS127/lab2/lab2.py', wdir='C:/Users/Computer/Desktop/1BI15CS127/lab2')
+
+ G[0]: {('?', '?', '?', '?', '?', '?')}
+
+ S[0]: {('%', '%', '%', '%', '%', '%')}
+
+ G[1]: {('?', '?', '?', '?', '?', '?')}
+
+ S[1]: {('Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same')}
+
+ G[2]: {('?', '?', '?', '?', '?', '?')}
+
+ S[2]: {('Sunny', 'Warm', '?', 'Strong', 'Warm', 'Same')}
+
+ G[3]: {('?', '?', '?', '?', '?', 'Same'), ('?', 'Warm', '?', '?', '?', '?'), ('Sunny', '?', '?', '?', '?', '?')}
+
+ S[3]: {('Sunny', 'Warm', '?', 'Strong', 'Warm', 'Same')}
+
+ G[4]: {('?', 'Warm', '?', '?', '?', '?'), ('Sunny', '?', '?', '?', '?', '?')}
+
+ S[4]: {('Sunny', 'Warm', '?', 'Strong', '?', '?')}

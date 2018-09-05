@@ -1,0 +1,21 @@
+runfile('C:/Users/Computer/Desktop/1BI15CS127/lab1.py', wdir='C:/Users/Computer/Desktop/1BI15CS127')
+<_csv.reader object at 0x075A2370>
+
+ the given training examples are: 
+['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same', 'yes']
+['Sunny', 'Warm', 'High', 'Strong', 'Warm', 'Same', 'yes']
+['Rainy', 'Cold', 'High', 'Strong', 'Warm', 'Change', 'no']
+['Sunny', 'Warm', 'High', 'Strong', 'Cool', 'Change', 'no']
+
+ the positive examples are:
+['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same', 'yes']
+['Sunny', 'Warm', 'High', 'Strong', 'Warm', 'Same', 'yes']
+
+
+the types of the find-s algorithm are 
+  ['%', '%', '%', '%', '%', '%']
+['Sunny', 'Warm', 'Normal', 'Strong', 'Warm', 'Same']
+['Sunny', 'Warm', '?', 'Strong', 'Warm', 'Same']
+
+ the maximally specific find-s hypothesis for the given training examples is:
+['Sunny', 'Warm', '?', 'Strong', 'Warm', 'Same']
